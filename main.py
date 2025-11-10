@@ -13,7 +13,7 @@ from datetime import datetime, timezone
 import re
 import urllib.request
 
-OWNER = "SolyNot"
+OWNER = "67HubLua"
 REPO = "discordbot"
 FILE = "keys.json"
 BRANCH = "main"
